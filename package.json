@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "simple exemplary hello world server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeehoon Ahn",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasquatchy/node-helloworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sasquatchy/node-helloworld/issues"
+  },
+  "homepage": "https://github.com/Sasquatchy/node-helloworld#readme"
+}
